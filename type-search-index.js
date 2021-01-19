@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Ch8Classes.MovieCollection","l":"DVD"},{"p":"Ch8Classes.MovieCollection","l":"DVDCollection"},{"p":"Ch8Classes.MovieCollection","l":"Movies"}];updateSearchResults();
